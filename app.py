@@ -11,6 +11,7 @@ teams=['Sunrisers Hyderabad',
     'Rajasthan Royals',
     'Delhi Capitals'
 ]
+
 cities=['Hyderabad', 'Mumbai', 'Indore', 'Kolkata', 'Bangalore',
        'Chandigarh', 'Jaipur', 'Chennai', 'Cape Town', 'Port Elizabeth',
        'Durban', 'Centurion', 'East London', 'Johannesburg', 'Kimberley',
